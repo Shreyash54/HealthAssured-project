@@ -2,3 +2,7 @@ In today's world flooded with health info, HealthAssured is your trusted guide. 
 
 HealthAssured is an innovative deep learning project designed to address the critical 
 need for accuracy and reliability in the realm of health information. 
+
+
+OUR RESEARCH PAPER:
+https://ieeexplore.ieee.org/document/10486261
